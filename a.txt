@@ -4,4 +4,3 @@ c
 d
 e
 branch4 +12
-config branch4
