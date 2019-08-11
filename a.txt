@@ -4,3 +4,4 @@ c
 d
 e
 branch4 +12
+config master
